@@ -1,0 +1,5 @@
+﻿1) Yönetici sorumlu olduğu çalışanının sadece "Onay Bekliyor" durumlu masraflarını görmeli. Böylece diğer durumlu masraflarla beraber ortalık karışmasını engelleyebiliriz. Ayrıca sadece işlem yapacağı masraflar ekranada listelenir.
+
+2) Seçilen masraf sahibine ait masraflar durumuna göre filitrelenebilmeli, tarihine göre sıralanabilmeli, Başlık ve Açıklama alanlarına göre arama yapılabilmeli.
+
+3) Bir raporlama ekranı olsa, Kimlerin üzerinde hangi durumlu kaç masraf var. Genel olarak girilen masrafların durumlara göre adetlerini Pasta Grafik(Pie Chart) olarak veren bir grafikler olsa etkileyici olabilir.
