@@ -5,3 +5,9 @@
 Uygulamanın kullandığı veritabanı script dosyası proje içindedir.
 
 Dosya adı : **MasrafOtomasyonuDB.sql**
+
+asdsaadasd
+asdasdasd
+adasdsadsadsadsad
+sadsadsadsad
+sadsadsad
